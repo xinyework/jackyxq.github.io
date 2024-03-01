@@ -1,4 +1,4 @@
-google.com, pub-9996994469792310, DIRECT, f08c47fec0942fa0
+google.com,pub-9996994469792310,DIRECT,f08c47fec0942fa0
 toponad.com,165e0a16707865,DIRECT,1d49fe424a1a456d
 adcolony.com,29b7f4a14dc689eb,RESELLER,1ad675c9de6b5176
 adelement.com,30273,RESELLER
