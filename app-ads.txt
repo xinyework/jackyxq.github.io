@@ -1,4 +1,10 @@
 google.com,pub-9996994469792310,DIRECT,f08c47fec0942fa0
+adtiming.com, 3502, DIRECT, bf66753b8f380142
+loopme.com, 11296, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+openx.com, 540298543, RESELLER, 6a698e2ec38604c6
+vyadd.com, 72567, RESELLER
+pubmatic.com, 159888, RESELLER, 5d62403b186f2ace
 toponad.com,165e0a16707865,DIRECT,1d49fe424a1a456d
 adcolony.com,29b7f4a14dc689eb,RESELLER,1ad675c9de6b5176
 adelement.com,30273,RESELLER
